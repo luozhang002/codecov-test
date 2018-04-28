@@ -1,1 +1,4 @@
-console.log(1111)
+
+var sum = require('./src/A.js')
+var Multiple = require('./src/B.js')
+console.log(Multiple)
